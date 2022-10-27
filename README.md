@@ -7,7 +7,7 @@
 
 I'm an aviation engineer, but i decided to learn something new and now I'm studying QA at **[Netology](https://netology.ru/ "Нетология")** school
 
-<img src=https://netology.ru/dist/public/images/logo-color-text_89097e.svg alt="drawing" width="200"/>
+![Netology](https://netology.ru/dist/public/images/logo-color-text_89097e.svg)
 
 ******
 The reasons why I started to learn QA are:
